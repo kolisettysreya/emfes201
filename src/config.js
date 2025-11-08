@@ -1,6 +1,6 @@
 const config = 
 {
-    "url":"http://localhost:8080/back2"
+    "url":"http://localhost:30083"
 }
 
 export default config
