@@ -7,5 +7,5 @@ export default defineConfig({
   server:{
     port:2006
   },
-  base:'/',
+  base:'/ecommerce/',
 })
